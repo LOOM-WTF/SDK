@@ -1,4 +1,3 @@
-Sure, let's enhance the documentation with more details, an index, and additional sections.
 
 # 🎮 Loom SDK Documentation
 
